@@ -1,4 +1,4 @@
-<h1 align="center">The Reign of Alpha Dragon🐉</h1>
+<h1 align="center">The Reign of Dragon🐉</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OnlyVenkatadanush&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
 </p>
@@ -15,7 +15,7 @@
 class Me:
     def __init__(self):
         self.name = "KOTAPATI VENKATA DANUSH"
-        self.alias = "Aplha Dragon"
+        self.alias = "Dragon"
         self.focus = ["AI", "Systems", "Deep Tech"]
         self.mindset = "Build > Talk"
         self.state = "Grinding × Evolving"
