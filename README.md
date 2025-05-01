@@ -50,14 +50,31 @@ class Me:
 “Code is the brush; impact is the masterpiece.”
 – Alpha Dragon
 
+---
+
+## 🔗 Connect & Vibe
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kotapativenkatadanush" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/venkatadanush/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/venkatadanush/practice" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+  <a href="https://leetcode.com/venkatadanush" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/OnlyVenkatadanush" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-🔗 Connect & Vibe
-
----
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OnlyVenkatadanush&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=OnlyVenkatadanush&theme=tokyonight&hide_border=true" /> </p>
 
 ---
