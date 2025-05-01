@@ -29,13 +29,17 @@ class Me:
 
  ---
 
- ## 🧠 LeetCode Stats
+## 🧠 LeetCode Grind
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/venkatadanush?theme=dark&font=Fira+Code&ext=activity)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/venkatadanush?theme=dark&ext=heatmap&font=Fira+Code&border=0" alt="LeetCode Stats" />
+</p>
 
-![Problems Solved](https://img.shields.io/badge/Solved_Problems-🔥_Keep_Grinding-orange?style=for-the-badge)
-![LeetCode Rank](https://img.shields.io/badge/Rank-BEASTMODE-black?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Daily_Streak-UNBREAKABLE-red?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Problems_Solved-300%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧱_Max_Streak-60_days-red?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆_Rank-Top_5%25-yellow?style=for-the-badge&logo=crown&logoColor=white" />
+</p>
 
  ---
 
