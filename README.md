@@ -23,9 +23,10 @@ class Me:
     def mission(self):
         return "To build intelligent systems that empower people and make legacy-worthy impact."
 ```
-💼 My Arsenal
-🔮 Skills Loading ....
-🛠️ Projects Building ....
+## 💼 My Arsenal
+
+- 🔮 Skills Loading ....
+- 🛠️ Projects Building ....
 
  ---
 
@@ -44,28 +45,24 @@ class Me:
 
  ---
 
-🌍 Vision-Driven
-“Code is just the language — the real art is what you choose to build with it.”
-– Flux Falcon (aka you)
+## 🌍 Vision-Driven
+
+“Code is the brush; impact is the masterpiece.”
+– Alpha Dragon
+
 
 ---
 
 🔗 Connect & Vibe
 
+---
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OnlyVenkatadanush&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=OnlyVenkatadanush&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
-⚡ Motto
-Grind in silence. Ship in style. Impact loudly.
 
-
----
-
-This README is designed to be clean, professional, and reflective of your passion and projects. Let me know if you'd like to add more sections or customize further!
-::contentReference[oaicite:0]{index=0}
 <!---
 OnlyVenkatadanush/OnlyVenkatadanush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
