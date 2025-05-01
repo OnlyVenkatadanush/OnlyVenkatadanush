@@ -1,4 +1,4 @@
-<h1 align="center">The Reign of Alpha Dragon🐉</h1>
+<h1 align="center" color="red" font-size=40px>The Reign of Alpha Dragon🐉</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OnlyVenkatadanush&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
 </p>
