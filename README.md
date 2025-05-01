@@ -31,7 +31,8 @@ class Me:
 
  ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/venkatdanush?theme=dark&font=Fira+Code&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/venkatadanush?theme=dark&font=Fira+Code&ext=activity)
+
 ![Problems Solved](https://img.shields.io/badge/Solved_Problems-🔥_Keep_Grinding-orange?style=for-the-badge)
 ![LeetCode Rank](https://img.shields.io/badge/Rank-BEASTMODE-black?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Daily_Streak-UNBREAKABLE-red?style=for-the-badge)
