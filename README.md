@@ -1,4 +1,8 @@
-<h1 align="center">🦅 Flux Falcon Has Landed 🪽</h1>
+<h1 align="center">The Alpha Dragon🐉</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OnlyVenkatadanush&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&width=500&lines=Engineering+AI+for+Impact...;Building+Next-Gen+Tools+%F0%9F%A4%97;Chasing+Greatness+Relentlessly...;Coding+with+Purpose+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </p>
@@ -8,10 +12,10 @@
 ## 🧠 About Me
 
 ```python
-class FluxFalcon:
+class Me:
     def __init__(self):
         self.name = "KOTAPATI VENKATA DANUSH"
-        self.alias = "Flux Falcon"
+        self.alias = "Aplha Dragon"
         self.focus = ["AI", "Systems", "Deep Tech"]
         self.mindset = "Build > Talk"
         self.state = "Grinding × Evolving"
@@ -20,26 +24,19 @@ class FluxFalcon:
         return "To build intelligent systems that empower people and make legacy-worthy impact."
 ```
 💼 My Arsenal
-🔮 AI/ML | Deep Learning | Transformers
+🔮 Skills Loading ....
+🛠️ Projects Building ....
 
-🧠 Python | Streamlit | Flask | Scrapy
+ ---
 
-⚙️ Operating Systems | Process Scheduling | Compiler Design
+ ## 🧠 LeetCode Stats
 
-🌐 MERN Stack | Tailwind | Anime.js
+![LeetCode Stats](https://leetcard.jacoblin.cool/venkatdanush?theme=dark&font=Fira+Code&ext=activity)
+![Problems Solved](https://img.shields.io/badge/Solved_Problems-🔥_Keep_Grinding-orange?style=for-the-badge)
+![LeetCode Rank](https://img.shields.io/badge/Rank-BEASTMODE-black?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Daily_Streak-UNBREAKABLE-red?style=for-the-badge)
 
-🛠️ Project Builds: Alias Wolf, Flux Falcon, DataHawk, more loading...
-
----
-
-📈 Currently Crafting
-✨ DataHawk: AI-Supercharged Web Scraper
-
-🧠 Flux Falcon: Multi-model Chat UI with Groq & OpenRouter integration
-
-💡 New Puzzle Game (👨‍💻 logic × design)
-
----
+ ---
 
 🌍 Vision-Driven
 “Code is just the language — the real art is what you choose to build with it.”
@@ -58,19 +55,6 @@ class FluxFalcon:
 ⚡ Motto
 Grind in silence. Ship in style. Impact loudly.
 
-🪽 #FluxOn
-
-yaml
-Copy
-Edit
-
----
-
-### 🔧 What You Need To Do
-
-- Replace `https://linkedin.com/` with your actual LinkedIn URL.
-- Ensure your GitHub username is correctly set in the stats URLs.
-- Add any additional social links or badges as desired.
 
 ---
 
