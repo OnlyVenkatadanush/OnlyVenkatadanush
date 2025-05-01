@@ -36,10 +36,11 @@ class Me:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Problems_Solved-300%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧱_Max_Streak-60_days-red?style=for-the-badge&logo=fire&logoColor=white" />
-  <img src="https://img.shields.io/badge/🏆_Rank-Top_5%25-yellow?style=for-the-badge&logo=crown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problems_Solved-118-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Max_Streak-61_days-red?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆_Global_Rank-10,14,914-yellow?style=for-the-badge&logo=ranking&logoColor=white" />
 </p>
+
 
  ---
 
