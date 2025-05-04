@@ -1,5 +1,7 @@
 <h1 align="center">The Reign of Dragon🐉</h1>
+```Html
 <p align = "center"> The King of Dragons,the ruler of all </p>
+```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OnlyVenkatadanush&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views" />
 </p>
